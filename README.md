@@ -15,7 +15,7 @@ I'm an undergraduate student majoring in Artificial Intelligence at Ewha Womans 
 * Cleanse: Clustering-based semantic consistency for LLM uncertainty estimation. (ACL 2025 GEM Workshop)[[paper link]](https://arxiv.org/abs/2507.14649)
 
 
-##### 📫 Contact
+#### 📫 Contact
 
 [Email](mailto:wnalstj21@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/minsuh-joo-b77a30377/?isSelfProfile=true)
