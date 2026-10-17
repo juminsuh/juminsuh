@@ -9,18 +9,15 @@ Currently, I'm an undergraduate research assistant at LKI Lab, where I work on u
 #### 🔬 Research Interests
 
 * Abstention Learning
-
 * Trustworthy of AI
-
 * Uncertainty Estimation and Hallucination Detection
-
 * LLM Evaluation and Benchmarking
 
 #### 📚 Research
 
-* [MAPLE: A multi-axis evaluation framework for knowledge extraction enhancement in LLMs. (arXiv preprint; 2026)](https://arxiv.org/abs/2610.19827)
+* MAPLE: A multi-axis evaluation framework for knowledge extraction enhancement in LLMs. (arXiv preprint 2026)[paper link](https://arxiv.org/abs/2610.19827)
 
-* [Cleanse: Clustering-based semantic consistency for LLM uncertainty estimation. (ACL 2025 GEM Workshop)](https://arxiv.org/abs/2507.14649)
+* Cleanse: Clustering-based semantic consistency for LLM uncertainty estimation. (ACL 2025 GEM Workshop)[paper link](https://arxiv.org/abs/2507.14649)
 
 
 ##### 📫 Contact
