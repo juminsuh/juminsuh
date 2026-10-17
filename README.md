@@ -1,6 +1,6 @@
 ### Hi, I'm Minsuh Joo 👋
 
-I'm an undergraduate student majoring in Artificial Intelligence at Ewha Womans University, South Korea. My research interests focus on large language models (LLMs), particularly **LLM evaluation, uncertainty estimation, and reliable AI**. Currently, I'm an undergraduate research assistant at LKI Lab, where I work on understanding and improving the reliability of LLMs. Please see my [CV](./assets/CV.pdf) for more information about me 😊. 
+I'm an undergraduate student majoring in Artificial Intelligence at Ewha Womans University, South Korea. My research interests focus on large language models (LLMs), particularly **LLM evaluation, uncertainty estimation, and reliable AI**. Currently, I'm an undergraduate research assistant at LKI Lab, where I work on understanding and improving the reliability of LLMs. Please see my <a href="assets/CV.pdf">CV</a> for more information about me 😊. 
 
 #### 🔬 Research Interests
 
