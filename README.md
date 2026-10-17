@@ -1,2 +1,1 @@
-# juminsuh
-README about myself
+### Hi, I'm Minsuh Joo 👋
