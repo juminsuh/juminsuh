@@ -22,6 +22,6 @@ Currently, I'm an undergraduate research assistant at LKI Lab, where I work on u
 
 ##### 📫 Contact
 
-Email: [wnalstj21@gmail.com]
+[Email](mailto:wnalstj21@gmail.com)
 
-LinkedIn: [https://www.linkedin.com/in/minsuh-joo-b77a30377/?isSelfProfile=true]
+[LinkedIn](https://www.linkedin.com/in/minsuh-joo-b77a30377/?isSelfProfile=true)
