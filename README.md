@@ -1,2 +1,2 @@
-# minair
+# juminsuh
 README about myself
